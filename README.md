@@ -1,40 +1,170 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Moksha Bhayani Portfolio
 
-## Getting Started
+A modern, premium, and fully responsive developer portfolio built using **Next.js**, **React**, **Tailwind CSS**, and **Framer Motion**.
 
-First, run the development server:
+Designed with futuristic UI, glassmorphism effects, liquid animated skills, smooth scrolling, interactive project modals, and neon aesthetics to create a recruiter-magnet portfolio experience.
+
+---
+
+## 🌐 Live Website
+
+[View Portfolio]
+
+
+---
+
+# ✨ Features
+
+- ⚡ Modern Premium UI Design
+- 🎨 Black + Neon Green Theme
+- 💎 Glassmorphism Effects
+- 🌊 Liquid Animated Skills Section
+- 🚀 Smooth Scroll Experience
+- 🖱️ Custom Cursor Glow
+- ✨ Interactive Hover Effects
+- 📱 Fully Responsive Design
+- 🎯 Project Detail Popup Modals
+- 💼 Recruiter-Friendly Layout
+- 🔥 Animated Hero Section
+- 📂 GitHub & Social Integration
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+- Next.js
+- React.js
+- Tailwind CSS
+- TypeScript
+
+## Animations
+- Framer Motion
+
+## Icons
+- React Icons
+
+## Deployment
+- Vercel
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 IntelliHelp AI Chatbot
+AI-powered chatbot with intelligent knowledge retrieval and context-aware responses.
+
+### Technologies Used
+- React.js
+- Python
+- AI Integration
+- Tailwind CSS
+
+---
+
+## 🏨 Hostel Management Website
+Dynamic hostel management platform with fee payment integration and admin dashboard features.
+
+### Technologies Used
+- Next.js
+- MongoDB
+- Tailwind CSS
+
+---
+
+## 🛡️ Suraksha Yatra
+Safety-focused travel application with emergency support and panic alert features.
+
+### Technologies Used
+- React.js
+- Firebase
+- Maps API
+
+---
+
+## 🛣️ Pothole Detection System
+AI-based pothole detection system using image processing and machine learning concepts.
+
+### Technologies Used
+- Python
+- OpenCV
+- Machine Learning
+
+---
+
+## 📚 Ionosphere Learning App
+Interactive learning platform for GD & PI preparation with structured modules and clean UI.
+
+### Technologies Used
+- React.js
+- Frontend Development
+- UI/UX Design
+
+---
+
+# 🧠 Skills
+
+- React.js
+- Next.js
+- Tailwind CSS
+- JavaScript
+- Python
+- Node.js
+- MongoDB
+- Firebase
+- HTML5
+- CSS3
+- GitHub
+- Figma
+
+---
+
+# 📬 Contact
+
+## LinkedIn
+www.linkedin.com/in/moksha-bhayani-6764b0317
+
+## GitHub
+https://github.com/mokshabhayani29
+
+---
+
+# ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mokshabhayani29/Moksha-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 🚀 Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Deployed using **Vercel**
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+# 📄 License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is open source and available under the MIT License.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 👩‍💻 Developed By
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Moksha Bhayani**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Moksha-portfolio
->>>>>>> 01a2e2adbb3df25f5324f6516ec3471392e45b6b
+Crafting Smart, Creative & Scalable Digital Products.
