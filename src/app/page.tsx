@@ -4,7 +4,7 @@ import About from "../app/components/About";
 import Projects from "../app/components/Projects"
 import Contact from "./components/Contact";
 import TechMarquee from "./components/TechMarquee";
-
+import Education from "./components/Education";
 export default function Home() {
   return (
     <main className="bg-[#111111] text-white overflow-hidden">
@@ -12,6 +12,7 @@ export default function Home() {
       <Hero />
       <TechMarquee />
       <About />
+      <Education />
       <Projects />
       <Contact />
     </main>

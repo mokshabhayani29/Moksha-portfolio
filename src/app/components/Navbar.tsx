@@ -9,10 +9,11 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const navLinks = [
-    { name: "About", href: "#about" },
-    { name: "Work", href: "#projects" },
-    { name: "Contact", href: "#contact" },
-  ];
+  { name: "About", href: "#about" },
+  { name: "Education", href: "#education" },
+  { name: "Projects", href: "#projects" },
+  { name: "Contact", href: "#contact" },
+];
 
   return (
     <motion.nav

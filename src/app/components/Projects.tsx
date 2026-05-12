@@ -131,10 +131,7 @@ const Projects = () => {
                 {/* Buttons */}
                 <div className="flex gap-5 mt-8">
 
-                  <button className="flex items-center gap-2 px-5 py-3 rounded-full bg-[#82ff1f] text-black font-semibold hover:scale-105 transition duration-300">
-                    <FiExternalLink />
-                    Live Demo
-                  </button>
+                 
 
                   <button className="flex items-center gap-2 px-5 py-3 rounded-full border border-white/20 hover:border-[#82ff1f] hover:text-[#82ff1f] transition duration-300">
                     <FaGithub />
